@@ -1,0 +1,671 @@
+fileFormatVersion: 2
+guid: f511047c1ab347a4392a7deff1f52c79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6083933605347549654
+    second: survivor-idle_Sheet_0
+  - first:
+      213: 8870824822415689552
+    second: survivor-idle_Sheet_1
+  - first:
+      213: -8647857020587505168
+    second: survivor-idle_Sheet_2
+  - first:
+      213: -2876216800028573298
+    second: survivor-idle_Sheet_3
+  - first:
+      213: -6193435516975747251
+    second: survivor-idle_Sheet_4
+  - first:
+      213: -7984099597836909850
+    second: survivor-idle_Sheet_5
+  - first:
+      213: 5159099520902837131
+    second: survivor-idle_Sheet_6
+  - first:
+      213: -4250312778160670664
+    second: survivor-idle_Sheet_7
+  - first:
+      213: 2842728768169941701
+    second: survivor-idle_Sheet_8
+  - first:
+      213: -7443124985829050950
+    second: survivor-idle_Sheet_9
+  - first:
+      213: 864312699155887345
+    second: survivor-idle_Sheet_10
+  - first:
+      213: -4631147907648243705
+    second: survivor-idle_Sheet_11
+  - first:
+      213: 7061116358257490137
+    second: survivor-idle_Sheet_12
+  - first:
+      213: -2858531025414654970
+    second: survivor-idle_Sheet_13
+  - first:
+      213: 2786524346330357349
+    second: survivor-idle_Sheet_14
+  - first:
+      213: 7419078819421285558
+    second: survivor-idle_Sheet_15
+  - first:
+      213: 3829886498155335271
+    second: survivor-idle_Sheet_16
+  - first:
+      213: -4431890510783086795
+    second: survivor-idle_Sheet_17
+  - first:
+      213: -2858932867732565691
+    second: survivor-idle_Sheet_18
+  - first:
+      213: -8525201555617356771
+    second: survivor-idle_Sheet_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e9238be96819ba0800000000000000
+      internalID: -6083933605347549654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0570ec42d208b1b70800000000000000
+      internalID: 8870824822415689552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9838babd3acf780800000000000000
+      internalID: -8647857020587505168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8149492f00a518d0800000000000000
+      internalID: -2876216800028573298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f6f57263f7c0aa0800000000000000
+      internalID: -6193435516975747251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e28793a7b7c23190800000000000000
+      internalID: -7984099597836909850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b833d402eadc89740800000000000000
+      internalID: 5159099520902837131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838fd612c0bd305c0800000000000000
+      internalID: -4250312778160670664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca9d83d0c6637720800000000000000
+      internalID: 2842728768169941701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab533d0c245b4b890800000000000000
+      internalID: -7443124985829050950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4bb0012d7aefb00800000000000000
+      internalID: 864312699155887345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708355ec38bdabfb0800000000000000
+      internalID: -4631147907648243705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d833ab9aef1ef160800000000000000
+      internalID: 7061116358257490137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604f9b27d257458d0800000000000000
+      internalID: -2858531025414654970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e9ffc1129bba620800000000000000
+      internalID: 2786524346330357349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3795
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcea38d0ecd5f660800000000000000
+      internalID: 7419078819421285558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e0d9c7a7d762530800000000000000
+      internalID: 3829886498155335271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 4301
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f7955cf03ce72c0800000000000000
+      internalID: -4431890510783086795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 4554
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5419c1e34b70358d0800000000000000
+      internalID: -2858932867732565691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 0
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14e1d68a5660b980800000000000000
+      internalID: -8525201555617356771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 52415804a086ecb4aacc2e835eaf0eef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      survivor-idle_Sheet_18: -2858932867732565691
+      survivor-idle_Sheet_14: 2786524346330357349
+      survivor-idle_Sheet_15: 7419078819421285558
+      survivor-idle_Sheet_7: -4250312778160670664
+      survivor-idle_Sheet_9: -7443124985829050950
+      survivor-idle_Sheet_0: -6083933605347549654
+      survivor-idle_Sheet_1: 8870824822415689552
+      survivor-idle_Sheet_6: 5159099520902837131
+      survivor-idle_Sheet_8: 2842728768169941701
+      survivor-idle_Sheet_11: -4631147907648243705
+      survivor-idle_Sheet_13: -2858531025414654970
+      survivor-idle_Sheet_16: 3829886498155335271
+      survivor-idle_Sheet_19: -8525201555617356771
+      survivor-idle_Sheet_2: -8647857020587505168
+      survivor-idle_Sheet_5: -7984099597836909850
+      survivor-idle_Sheet_10: 864312699155887345
+      survivor-idle_Sheet_4: -6193435516975747251
+      survivor-idle_Sheet_17: -4431890510783086795
+      survivor-idle_Sheet_3: -2876216800028573298
+      survivor-idle_Sheet_12: 7061116358257490137
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

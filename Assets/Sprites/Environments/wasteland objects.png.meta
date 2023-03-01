@@ -1,0 +1,921 @@
+fileFormatVersion: 2
+guid: da0dd389d753dd242b9067d32265c253
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9060643604212966938
+    second: wasteland objects_0
+  - first:
+      213: 7872327225671161862
+    second: wasteland objects_1
+  - first:
+      213: -4175716995953371034
+    second: wasteland objects_2
+  - first:
+      213: -696758829437298214
+    second: wasteland objects_3
+  - first:
+      213: 687147102598156892
+    second: wasteland objects_4
+  - first:
+      213: 8375908558353764366
+    second: wasteland objects_5
+  - first:
+      213: 6433259155615361772
+    second: wasteland objects_6
+  - first:
+      213: -3844606953560512776
+    second: wasteland objects_7
+  - first:
+      213: 8224177083190724083
+    second: wasteland objects_8
+  - first:
+      213: 269604912715484964
+    second: wasteland objects_9
+  - first:
+      213: 5761299284610292820
+    second: wasteland objects_10
+  - first:
+      213: -7459871017862887043
+    second: wasteland objects_11
+  - first:
+      213: 3127335685935814121
+    second: wasteland objects_12
+  - first:
+      213: -8790923576748700907
+    second: wasteland objects_13
+  - first:
+      213: 1321254558161059512
+    second: wasteland objects_14
+  - first:
+      213: 90578339832063023
+    second: wasteland objects_15
+  - first:
+      213: -1713082348947394683
+    second: wasteland objects_16
+  - first:
+      213: -6890752097331606240
+    second: wasteland objects_17
+  - first:
+      213: -5074331897350158002
+    second: wasteland objects_18
+  - first:
+      213: -2675559451545000860
+    second: wasteland objects_19
+  - first:
+      213: 5961416046775904401
+    second: wasteland objects_20
+  - first:
+      213: -5392764524017116886
+    second: wasteland objects_21
+  - first:
+      213: 8037262278203167190
+    second: wasteland objects_22
+  - first:
+      213: 2008351292263578491
+    second: wasteland objects_23
+  - first:
+      213: 6063746261022307447
+    second: wasteland objects_24
+  - first:
+      213: -3074052132776661747
+    second: wasteland objects_25
+  - first:
+      213: -5776263107070693572
+    second: wasteland objects_26
+  - first:
+      213: -4983130173786795147
+    second: wasteland objects_27
+  - first:
+      213: -6847789988547881823
+    second: wasteland objects_28
+  - first:
+      213: -4474804880535374533
+    second: wasteland objects_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 108
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wasteland objects_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 323
+        width: 97
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e99876b5a0224280800000000000000
+      internalID: -9060643604212966938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 323
+        width: 97
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60814c107ef104d60800000000000000
+      internalID: 7872327225671161862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 332
+        width: 138
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66853ad148fdc06c0800000000000000
+      internalID: -4175716995953371034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 348
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9d545498d9456f0800000000000000
+      internalID: -696758829437298214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 337
+        width: 112
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c525dce26ac398900800000000000000
+      internalID: 687147102598156892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 303
+        width: 98
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0094d3d4743d3470800000000000000
+      internalID: 8375908558353764366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 303
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaab7efd17874950800000000000000
+      internalID: 6433259155615361772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 241
+        width: 140
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f66708685635aac0800000000000000
+      internalID: -3844606953560512776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 270
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5cd7dcb75222270800000000000000
+      internalID: 8224177083190724083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 217
+        width: 228
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f4b1c5d34ddb300800000000000000
+      internalID: 269604912715484964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 242
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c98e7bc2f34ff40800000000000000
+      internalID: 5761299284610292820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 216
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d790d0655d6397890800000000000000
+      internalID: -7459871017862887043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 164
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e55b9dac37866b20800000000000000
+      internalID: 3127335685935814121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 38
+        width: 198
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b8940559d500680800000000000000
+      internalID: -8790923576748700907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 180
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be3e05350a065210800000000000000
+      internalID: 1321254558161059512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 176
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24e80a258cc14100800000000000000
+      internalID: 90578339832063023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_16
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 180
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fafff0ea8e938e0800000000000000
+      internalID: -1713082348947394683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 184
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d854be9712f50a0800000000000000
+      internalID: -6890752097331606240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_18
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 185
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49820a360a5499b0800000000000000
+      internalID: -5074331897350158002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 120
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464a833cad08edad0800000000000000
+      internalID: -2675559451545000860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 144
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19824624f443bb250800000000000000
+      internalID: 5961416046775904401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 140
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2991accc3d0925b0800000000000000
+      internalID: -5392764524017116886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 132
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d152f275771a8f60800000000000000
+      internalID: 8037262278203167190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 120
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b319f0cd81fdb10800000000000000
+      internalID: 2008351292263578491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 65
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7747658e811c62450800000000000000
+      internalID: 6063746261022307447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 66
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0da0dc4fd5c655d0800000000000000
+      internalID: -3074052132776661747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f6bddde4796dfa0800000000000000
+      internalID: -5776263107070693572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_27
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 40
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57358e9328d58dab0800000000000000
+      internalID: -4983130173786795147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 32
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4902c5943c7f0a0800000000000000
+      internalID: -6847789988547881823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland objects_29
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 34
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3531807bac46e1c0800000000000000
+      internalID: -4474804880535374533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a173a80c85fc6194ebf2e06ec31fc729
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      wasteland objects_26: -5776263107070693572
+      wasteland objects_1: 7872327225671161862
+      wasteland objects_17: -6890752097331606240
+      wasteland objects_29: -4474804880535374533
+      wasteland objects_19: -2675559451545000860
+      wasteland objects_28: -6847789988547881823
+      wasteland objects_0: -9060643604212966938
+      wasteland objects_3: -696758829437298214
+      wasteland objects_10: 5761299284610292820
+      wasteland objects_16: -1713082348947394683
+      wasteland objects_13: -8790923576748700907
+      wasteland objects_25: -3074052132776661747
+      wasteland objects_24: 6063746261022307447
+      wasteland objects_2: -4175716995953371034
+      wasteland objects_11: -7459871017862887043
+      wasteland objects_14: 1321254558161059512
+      wasteland objects_6: 6433259155615361772
+      wasteland objects_8: 8224177083190724083
+      wasteland objects_7: -3844606953560512776
+      wasteland objects_9: 269604912715484964
+      wasteland objects_4: 687147102598156892
+      wasteland objects_15: 90578339832063023
+      wasteland objects_12: 3127335685935814121
+      wasteland objects_20: 5961416046775904401
+      wasteland objects_22: 8037262278203167190
+      wasteland objects_23: 2008351292263578491
+      wasteland objects_27: -4983130173786795147
+      wasteland objects_5: 8375908558353764366
+      wasteland objects_21: -5392764524017116886
+      wasteland objects_18: -5074331897350158002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
